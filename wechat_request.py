@@ -123,7 +123,7 @@ def fakeid2message_update(fakeid, message_exist=[]):
         'search_field': 'null',
         'begin': 0,
         'count': 20,
-        'query': '',
+        'query': '银行写作',
         'fakeid': fakeid,
         'type': '101_1',
         'free_publish_type': 1,
